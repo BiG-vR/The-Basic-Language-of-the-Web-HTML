@@ -8,7 +8,7 @@ All modern websites and web applications are built using three fundamental techn
 
 In this post, let's focus on HTML. We will learn what HTML is all about, and why you too should learn it.
 
-What is HTML?
+### What is HTML?
 
 HTML stands for HyperText Markup Language. It's a markup language that web developers use to structure and describe the content of a webpage (not a programming language).
 
@@ -21,7 +21,7 @@ The closing tag
 The actual element
 You can learn more at the MDN Web Docs.
 
-Why should you learn HTML?
+### Why should you learn HTML?
 
 There are countless reasons for learning the fundamental language of the web. Here are 5 of them:
 
